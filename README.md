@@ -56,6 +56,7 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
     ├── README.md
     ├── cleaned-data.csv
     ├── data-cleaning.ipynb
+    ├── data-analysis.ipynb
     ├── raw_data.csv
     └── requirements.txt
 ```
