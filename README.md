@@ -1,5 +1,5 @@
 # ImmoEliza Real Estate Project
-Part 2: Data Analysis
+***Part 2: Data Analysis***
 
 ## Description
 
