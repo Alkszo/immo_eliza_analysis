@@ -67,7 +67,10 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
   
 2. **Visualizations**
    
+   The resulting visualizations can be found in `data_analysis.ipynb` as well as in the `/graphs` folder.
+   
    Key charts and graphs include:
+
    * Plots visualizing outliers
    * Bar charts for pricing across regions and per range of living area in sqm
    * Bar charts for the most and least expensive municipalities in Belgium, Wallonia and Flanders
@@ -78,6 +81,17 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
    
     * Launch the notebooks in JupyterLab or your preferred environment.
     * Execute cells sequentially and review visualizations and findings.
+
+## Sample Visualizations
+
+
+<img src="graphs/correlation-prices-apartments.png" alt="Correlation Heatmap" width="300">
+
+
+<img src="graphs/correlation-prices-living_area_w-outliers.png" alt="Correlation Heatmap" width="300">
+
+<img src="graphs/be_expensive_avg.png" alt="Correlation Heatmap" width="300">
+
 
 ## Contributor Notebooks
 The folder `/notebooks` contains one notebook each, showcasing of each contributor. These notebooks are only meant to demonstrate the data exploration, analysis and experimentation process. 
