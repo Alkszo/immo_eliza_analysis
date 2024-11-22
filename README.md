@@ -12,6 +12,8 @@ The ImmoEliza Real Estate Project focuses on analyzing and preparing real estate
 * Data Interpretation: Summarizing findings to make strategic decisions for real estate investments.
 The analysis highlights property trends, influential factors on pricing, and regional comparisons across Belgium, Wallonia, and Flanders. The results can be found in the presentation of findings in `/presentation/immo-eliza_analysis.pptx`.
 
+The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repository for the data scraping can be found under https://github.com/BeatrizJover/Immo-Eliza-project.
+
 ## Installation
 
 1. **Clone the repository**
@@ -38,7 +40,22 @@ The analysis highlights property trends, influential factors on pricing, and reg
 
     * Ensure that `raw_data.csv` and `cleaned-data.csv`
 
+## Project File Structure
 
+```plaintext
+    immo_eliza_analysis/
+    ├── notebooks/
+    │   ├── Alek-notebook.ipynb
+    │   ├── Celina-notebook.ipynb
+    │   └── Miriam-notebook.ipynb
+    ├── presentation/
+    │   └── immo-eliza_analysis.pptx
+    ├── README.md
+    ├── cleaned-data.csv
+    ├── data-cleaning.ipynb
+    ├── raw_data.csv
+    └── requirements.txt
+```
 
 ## Usage 
 
@@ -61,10 +78,15 @@ The analysis highlights property trends, influential factors on pricing, and reg
     * Launch the notebooks in JupyterLab or your preferred environment.
     * Execute cells sequentially and review visualizations and findings.
 
+## Contributor Notebooks
+The folder `/notebooks` contains one notebook each, showcasing of each contributor. These notebooks are only meant to demonstrate the data exploration, analysis and experimentation process. 
+
+For the final results, please refer to the file `data-analysis.ipynb`.
+
 ## Contributors
-   * Aleksander Szostakowski
-   * Celina Bolanos
-   * Miriam Stoehr
+ * Aleksander Szostakowski
+  * Celina Bolanos
+  * Miriam Stoehr
 
 ## Timeline
 
