@@ -62,7 +62,7 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
 
 1. **Run the Notebooks**
 
-   * `data_cleaning.ipynb`: Cleans the dataset by removing duplicates and handling missing values.
+   * `data_cleaning.ipynb`: Cleans the dataset by removing duplicates and handling missing values and outputs the file `cleaned_data.csv`.
    * `data_analysis.ipynb`: Explores variables, performs data preprocessing and visualizes data trends, and generates graphs showing data distribution and correlation, based on which it identifies key variables and draws insights.
   
 2. **Visualizations**
