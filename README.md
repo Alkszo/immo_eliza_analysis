@@ -47,8 +47,10 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
     ├── graphs/
     ├── notebooks/
     │   ├── Alek-notebook.ipynb
-    │   ├── Celina-notebook.ipynb
-    │   └── Miriam-notebook.ipynb
+    │   ├── Celina-analysis.ipynb
+    │   ├── Celina-cleaning.ipynb
+    │   ├── Miriam-analysis.ipynb
+    │   └── Miriam-cleaning-preprocessing.ipynb
     ├── presentation/
     │   └── immo-eliza_analysis.pptx
     ├── README.md
