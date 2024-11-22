@@ -44,6 +44,7 @@ The dataset `raw_data.csv` stems from phase 1 of the ImmoEliza project. The repo
 
 ```plaintext
     immo_eliza_analysis/
+    ├── graphs/
     ├── notebooks/
     │   ├── Alek-notebook.ipynb
     │   ├── Celina-notebook.ipynb
